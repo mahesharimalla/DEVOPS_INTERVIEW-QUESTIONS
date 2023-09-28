@@ -1,0 +1,65 @@
+1) What is DevOps? Advantages of DevOps?
+2) What are the most important DevOps Tools & there uses?
+3) Which command is used to check the size of file or directory?
+4) What is the function of grep command?
+5) What are file permissions in linux?
+6) Which command is used to check connection status between source & destination machine?
+7) Command to check ip address?
+
+How would your experience with Git?
+8) What is Source Code Management?
+9) What is Git & Git Hub?
+10) Can you explain difference between Git Pull & Git Fetch?
+11) What is Git Merge?
+12) What is Git Reset?
+13) Difference between Git Merge & Git Rebase?
+14) What does git stash command do?
+15) In Git there is a command called Git Rebase, Do you know what does it do?
+16) What is jenkins? Why do we use it?
+17) What are the pre-requesites to install Jenkins?
+18) What  is CI/CD?
+19) What is Jenkins job?
+20) Different types of jobs are have in Jenkins?
+21) What is Jenkins Pipeline & types of Jenkins Pipeline?
+22) Where is jenkins default password stored?
+23) How do you install the jenkins plugin?
+24) Name some of the useful plugins in jenkins?
+25) What is jenkins file?
+26) How to make a backup of jenkins?
+27) Explain the ways to configure jenkins node agent to communication with jenkins master?
+28) What is Docker?
+29) Docker Image & Docker file?
+30) Do you have experience in Docker files?
+31) What are the most common instructions in Dockerfile?
+32) Difference between COPY and ADD  commands that are used in Dockerfile?
+33) What is Maven?
+34) What is Maven Build life cycle?
+35) What are the Maven commands used?
+36) What does POM.XML contains?
+37) I have the container which is already running & i need to get inside that running container then what is the command that would i used? why do we use -it?
+38) In Dockers, i want to write a dockerfile that would install Git & Jenkins on amazon linux server & then once installation is completed i want to start my jenkins instance so can you tell me how to write this?
+39) Tell me about Docker Compose?
+40) When we write the docker file we normally provide certain instructions correct? So there is something called ENTRYPOINT & CMD, what is the difference between them?
+41)How about your experience with Ansible?
+42) What is Ansible & Ansible Components?
+43) Advantages of Ansible?
+44) What is the add-hoc command in Ansible?
+45) What are Ansible tasks & What are the Handlers in Ansible?
+46) What is an Ansible Playbook?
+47) Write a Sample Ansible Playbook?
+48) What is Kubernetes?
+49) Can you explain the Architecture of Kubernetes?
+50) Name Kubernetes resources & objects?
+
+
+
+
+
+
+
+
+
+
+
+
+
