@@ -83,6 +83,35 @@ How would your experience with Git?
 80) I have declarative pipeline with diff different stages. How do I do if some situations rises the stages to skip in pipeline?
 81) How do i create credentails in Jenkins & use?
 
+Kubernetes(Scenario based kubernetes Interview Questions  Tech With NANA)
+
+82) How do you test a manifest without actually executing it?
+Ans: --dry-run
+
+83) How do you initiate a rollout undo deploy nginx?
+Ans :  Kubectl rollout undo deploy nginx
+
+84) How do you package kubernetes applications?
+Ans: Helm is a package manager which allows users to package, configure, & deploy applications & services to the kubernetes cluster.
+
+85) What are the init containers?
+Ans: An init container is an additional container in a pod that completes a task before the "regular" container is started.
+
+86) What is node affinity & Pod affinity?
+
+87) How do you drain the traffic from a pod during maintainance?
+Ans: kubectl drain <nodename>
+     kubectl uncordon <nodename>
+
+88) 
+
+
+
+
+
+
+
+
 
 
 
