@@ -51,6 +51,37 @@ How would your experience with Git?
 49) Can you explain the Architecture of Kubernetes?
 50) Name Kubernetes resources & objects?
 
+51) Do you know what is the namespace?
+52) What is meant by POD?
+53) Explain about Replicaset?
+54) What is Deployment?
+55) Tell me command to create a POD?
+56) How you can create a deployment & delete a Deployment?
+57) What is Terraform?
+58) Tell me any five terraform commands?
+59) What are the categories of Ansible in DevOps?
+60) What is CI & what is its purpose?
+61) How do you revert a commit that has already been pushed & made pulic?
+62) Can we handle merge conflicts in Git?
+63) Can we move or copy jenkins from one server to another?
+64) Explain what you understand by a shiftleft strategy?
+65) Explain the use of containers in DevOps?
+66) Which registry are using to push docker images?
+67) In Groovy Script what are stages & stage?
+68) How do i create credentails in Jenkins & use?
+69) What is module used to run command on windows?
+70) How to check particular port is running or not?
+71) How to check particular process is running or not?
+72) What is Cherrypick?
+73) What is VPC & Why we use it?
+74) Write a dockerfile to take base image as ubuntu, take nginx image from local & start Nginx (Copy the image from 1 path to another 1 the image).
+75) Mount outside into an image from container?
+76) Types of Volumes?
+77) I have code of .net & java its manual project. If used to automate the project, How will do it.
+78) If possible to write loops in groovy?
+79) Can we put a function in groovy?
+80) I have declarative pipeline with diff different stages. How do I do if some situations rises the stages to skip in pipeline?
+81) How do i create credentails in Jenkins & use?
 
 
 
