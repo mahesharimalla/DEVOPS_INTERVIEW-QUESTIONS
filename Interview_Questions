@@ -107,7 +107,83 @@ Ans: kubectl drain <nodename>
 
 
 
+Assignment 1   
+1. What is server? 
+2. What is cloud computing? 
+3. What are the disadvantages before cloud? 
+4. What are the advantages of cloud?
+5. Explain different service models of the cloud? 
+6. Explain Different types of cloud ? 
+7. What is ?(Types of virtualization)---->Task 
+8. Why cloud computing? 
+9. Which are the different types of cloud providers? 
+10. What are the difference between cloud computing and On premises?
 
+Assignment 2 
+
+1. What is Region?
+2. What is Avalability zones?
+3. What is EC2?
+4. What is EC2 Instance?
+5. What are the 7 steps to create the instance
+6. How to create the instance Hands on ?
+7. What is security groups?
+  
+Assignment 3 
+
+1.What is AMI?
+2.What is user data ?
+3.How to create instance using User data hands on?
+4.What are the types of instances?
+5.How to launch on instance using your own AMI Hands on?
+
+Assignment 4 
+
+1.What is IAM service in AWS Cloud?
+2.Explain different types of user accounts in AWS Cloud?
+3.Are root users and IAM users the same?
+4.How to control Authorization in AWS IAM?
+5.What is AWS account root user?
+6.What are AWS policies?
+7.How to create an AWS IAM policy?
+8.What is the importance of IAM?
+9.Could you describe IAM in your own words?
+10.What are some reasons companies need IAM?
+
+Assignment 5 
+
+1.What is MFA?
+2.How to create a MFA to the users hands on?
+3.What is AWS CLI?
+4.What are the different types of securing the users/root account?Explain
+
+Assignment 6 
+
+1.Which are the different types of accessing your AWS management console?
+2.What is AWS CLI?
+3.What are the different guidelines that you must follow while creating the AWS IAM?
+4.What is IAM Roles?
+5.What is Access Key and Secret key in AWS?
+6.Why we need  Access Key and Secret key in AWS?
+
+Assignment 7 
+
+1. What is IAM Security tools?
+2. What is IAM Credential report?
+3. What is IAM access advisor?
+4. List all the IAM best practices?
+5. What is AWS Storage?
+6. Which are the different types of storage in AWS?
+7. What is EBS?
+8.Hands on creating volume and attaching volume to the instance?
+
+Assignment 8 
+
+1.What is EBS Snapshots?
+2. Hands on creating snapshot using the EBS volumes
+3. Hands on creating AMI using the snapshots
+4. What is EFS?
+5.What is the differnce between EBS and EFS?
 
 
 
