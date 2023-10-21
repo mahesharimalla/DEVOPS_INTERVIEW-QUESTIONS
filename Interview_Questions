@@ -103,7 +103,35 @@ Ans: An init container is an additional container in a pod that completes a task
 Ans: kubectl drain <nodename>
      kubectl uncordon <nodename>
 
-88) 
+88) I have one pod & inside 2 containers are running one is Nginix & another one is WordPress so, how can access these 2 containers from the browser with IP address?
+Ans: Just do port forword:
+     kubectl port-forword [nginx-pod-name] 80:80
+     kubectl port-forword [wordpress-pod-name] drupal-port: wordpress-port
+
+89) If i have multiple containers running inside a pod, I wait for a specific container to start before starting another one?
+Ans: 
+
+90) What is the impact of upgrading kubelet if we leave the pods on the worker node- will it break running pods? why?
+Ans: 
+
+91) How service that selects apps based on the label & has an externalIP?
+Ans: 
+
+92) Does the container restart when applying/updating the secret object? If not, how is the new password applied to the database?
+Ans: 
+
+93) How should you connect an app pod with a database pod?
+Ans: By using a service object.
+
+94) How to configure a default Image Pull Secret for any deployment?
+Ans: imagepullsecrets:
+     name: test
+
+95) I have 6 EC2 VMs. I restart 2. I stop 2. I terminate 2. How many are left? 
+Ans: It depends on Environment what we have.
+
+96) What is Forward Proxy vs Reverse Proxy?
+Ans: 
 
 
 
