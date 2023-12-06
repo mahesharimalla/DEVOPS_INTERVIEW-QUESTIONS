@@ -216,14 +216,36 @@ Assignment 8
 
 
 
+What are the services in Kubernetes?
+Types of Kubernetes Services
+LoadBalancer: Clients send requests to the IP address of a network load balancer. ExternalName: Internal clients use the DNS name of a Service 
+as an alias for an external DNS name. Headless: You can use a headless service when you want a Pod grouping, but don't need a stable IP address.
 
 
 
+How many services are in Kubernetes?
+There are four types of services that Kubernetes supports: ClusterIP, NodePort, LoadBalancer, and Ingress. Each has their own set of requirements
+to enable them for your application, so you must understand which one you need before deploying
 
 
 
+What is a cluster in Kubernetes?
+Kubernetes clusters are comprised of one master node and a number of worker nodes. These nodes can either be physical computers or virtual machines,
+depending on the cluster. The master node controls the state of the cluster; for example, which applications are running and their corresponding container images.
 
 
+What is POD and container?
+Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. A Pod (as in a pod of whales or pea pod) is a group of one or more
+containers, with shared storage and network resources, and a specification for how to run the containers.
 
 
+What is pod full form?
+Proof of Delivery (POD): definition and examples
+A Proof of Delivery (POD) is a document that serves as written evidence of the proper delivery of a shipment. The carrier issues the document, which must be acknowledged 
+by the recipient to confirm the correct delivery of the goods.
 
+
+What is kubectl used for?
+What is Kubectl?
+kubectl is the Kubernetes-specific command line tool that lets you communicate and control Kubernetes clusters. Whether you're creating, managing, or deleting resources
+on your Kubernetes platform, kubectl is an essential tool.
